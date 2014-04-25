@@ -1,6 +1,6 @@
 Cook Book for Human Activity Recognition Using Smartphones Dataset
 ---------
-*Details about the dataset please refer to  [Human Activity Recognition Using Smartphones Dataset](https://)
+*Details about the dataset please refer to  [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones )
 
 Rountine fun_analysis.R is used to clean up the data and transform it into a new tidy dataset.   
 The following procedures are done in sequence:
